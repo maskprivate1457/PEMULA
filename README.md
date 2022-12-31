@@ -15,4 +15,4 @@ Script Untuk Menginstall Tools Termux
 
 7.cd PEMULA
 
-8.sh hasil.sh
+8.sh installpemula.sh
